@@ -1,0 +1,10 @@
+{
+    "$schema": "http://kilt-protocol.org/draft-01/ctype#",
+    "properties": {
+        "Email": {
+            "type": "string"
+        }
+    },
+    "title": "Email",
+    "type": "object"
+}

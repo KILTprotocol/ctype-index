@@ -1,0 +1,19 @@
+{
+    "$schema": "http://kilt-protocol.org/draft-01/ctype#",
+    "properties": {
+        "age": {
+            "type": "integer"
+        },
+        "id_number": {
+            "type": "string"
+        },
+        "name": {
+            "type": "string"
+        },
+        "nation": {
+            "type": "integer"
+        }
+    },
+    "title": "zCloak Primary Access",
+    "type": "object"
+}

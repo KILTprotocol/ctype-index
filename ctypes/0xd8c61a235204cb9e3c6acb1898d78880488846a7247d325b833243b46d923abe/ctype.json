@@ -1,0 +1,16 @@
+{
+    "$schema": "http://kilt-protocol.org/draft-01/ctype#",
+    "properties": {
+        "Discriminator": {
+            "type": "string"
+        },
+        "User ID": {
+            "type": "string"
+        },
+        "Username": {
+            "type": "string"
+        }
+    },
+    "title": "Discord",
+    "type": "object"
+}

@@ -1,0 +1,19 @@
+{
+    "$schema": "http://kilt-protocol.org/draft-01/ctype#",
+    "properties": {
+        "First name": {
+            "type": "string"
+        },
+        "Last name": {
+            "type": "string"
+        },
+        "User ID": {
+            "type": "number"
+        },
+        "Username": {
+            "type": "string"
+        }
+    },
+    "title": "Telegram",
+    "type": "object"
+}

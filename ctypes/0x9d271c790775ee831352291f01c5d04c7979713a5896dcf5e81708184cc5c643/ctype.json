@@ -1,0 +1,13 @@
+{
+    "$schema": "http://kilt-protocol.org/draft-01/ctype#",
+    "properties": {
+        "id": {
+            "type": "string"
+        },
+        "origin": {
+            "type": "string"
+        }
+    },
+    "title": "Domain Linkage Credential",
+    "type": "object"
+}
