@@ -1,21 +1,21 @@
 # CType Index
 
 All CTypes are stored in the Spiritnet Blockchain history.
-This repository acts as a convenient index to those ctypes.
+This repository acts as a convenient index to those CTypes.
 
-Subscan can be used to filter for [ctype created events](https://spiritnet.subscan.io/event?address=&module=ctype&event=ctypecreated&startDate=&endDate=&startBlock=&endBlock=&timeType=date&version=10620).
+Subscan can be used to filter for [CType created events](https://spiritnet.subscan.io/event?address=&module=ctype&event=ctypecreated&startDate=&endDate=&startBlock=&endBlock=&timeType=date&version=10620).
 
 The structure of this repository is as follows:
 
 * README.md - this readme
-* `ctypes` - a directory containing all CType
+* `ctypes` - a directory containing all CTypes
   * `<ctype hash>` - a directory for each CType
     * `README.md` – a description of the CType
     * ctype.json - the prettified CType that can be found on chain
 
 Is a CType missing? Add it to the chain and open a PR in this repository!
 
-## List of Ctypes
+## List of CTypes
 
 ### Social Media
 
