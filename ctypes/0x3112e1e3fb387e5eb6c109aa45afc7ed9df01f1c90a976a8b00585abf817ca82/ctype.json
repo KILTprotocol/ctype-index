@@ -1,0 +1,13 @@
+{
+  "$schema": "http://kilt-protocol.org/draft-01/ctype#",
+  "properties": {
+    "age": {
+      "type": "integer"
+    },
+    "name": {
+      "type": "string"
+    }
+  },
+  "title": "Drivers License(wanghui)",
+  "type": "object"
+}

@@ -1,0 +1,13 @@
+{
+  "$schema": "http://kilt-protocol.org/draft-01/ctype#",
+  "properties": {
+    "Channel ID": {
+      "type": "string"
+    },
+    "Channel Name": {
+      "type": "string"
+    }
+  },
+  "title": "YoutubeChannel",
+  "type": "object"
+}

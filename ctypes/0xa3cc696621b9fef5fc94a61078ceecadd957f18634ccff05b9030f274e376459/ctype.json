@@ -1,0 +1,16 @@
+{
+  "$schema": "http://kilt-protocol.org/draft-01/ctype#",
+  "properties": {
+    "Account Type": {
+      "type": "string"
+    },
+    "User ID": {
+      "type": "string"
+    },
+    "Username": {
+      "type": "string"
+    }
+  },
+  "title": "Instagram",
+  "type": "object"
+}

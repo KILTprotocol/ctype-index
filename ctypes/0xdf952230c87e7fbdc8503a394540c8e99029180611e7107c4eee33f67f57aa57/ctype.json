@@ -1,0 +1,13 @@
+{
+  "$schema": "http://kilt-protocol.org/draft-01/ctype#",
+  "properties": {
+    "email": {
+      "type": "string"
+    },
+    "username": {
+      "type": "string"
+    }
+  },
+  "title": "Authorization",
+  "type": "object"
+}

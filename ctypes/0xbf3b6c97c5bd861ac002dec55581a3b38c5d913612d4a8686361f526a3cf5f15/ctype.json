@@ -1,0 +1,10 @@
+{
+  "$schema": "http://kilt-protocol.org/draft-01/ctype#",
+  "properties": {
+    "AP_PHONE_NUMBER": {
+      "type": "string"
+    }
+  },
+  "title": "AP_PHONE_NUMBER",
+  "type": "object"
+}
