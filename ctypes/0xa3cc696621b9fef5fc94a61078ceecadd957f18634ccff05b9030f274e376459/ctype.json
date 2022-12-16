@@ -12,5 +12,6 @@
     }
   },
   "title": "Instagram",
-  "type": "object"
+  "type": "object",
+  "$id": "kilt:ctype:0xa3cc696621b9fef5fc94a61078ceecadd957f18634ccff05b9030f274e376459"
 }

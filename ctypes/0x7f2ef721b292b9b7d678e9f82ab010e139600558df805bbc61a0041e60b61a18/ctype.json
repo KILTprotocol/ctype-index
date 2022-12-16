@@ -15,5 +15,6 @@
         }
     },
     "title": "zCloak Primary Access",
-    "type": "object"
+    "type": "object",
+    "$id": "kilt:ctype:0x7f2ef721b292b9b7d678e9f82ab010e139600558df805bbc61a0041e60b61a18"
 }

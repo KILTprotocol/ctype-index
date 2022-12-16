@@ -6,5 +6,6 @@
         }
     },
     "title": "Twitter",
-    "type": "object"
+    "type": "object",
+    "$id": "kilt:ctype:0x47d04c42bdf7fdd3fc5a194bcaa367b2f4766a6b16ae3df628927656d818f420"
 }

@@ -6,5 +6,6 @@
     }
   },
   "title": "AP_PHONE_NUMBER",
-  "type": "object"
+  "type": "object",
+  "$id": "kilt:ctype:0xbf3b6c97c5bd861ac002dec55581a3b38c5d913612d4a8686361f526a3cf5f15"
 }
