@@ -1,0 +1,11 @@
+{
+    "$schema": "http://kilt-protocol.org/draft-01/ctype#",
+    "properties": {
+        "comment": {
+            "type": "string"
+        }
+    },
+    "title": "Comment",
+    "type": "object",
+    "$id": "kilt:ctype:0x5fd43243e69170a86159ec68e8913a34a1e676e237adde0f86ed6e4a5b08649b"
+}
