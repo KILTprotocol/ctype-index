@@ -27,6 +27,8 @@ Is a CType missing? Add it to the chain and open a PR in this repository!
 * [Discord](ctypes/0xd8c61a235204cb9e3c6acb1898d78880488846a7247d325b833243b46d923abe/README.md)
 * [YoutubeChannel](ctypes/0x329a2a5861ea63c250763e5e4c4d4a18fe4470a31e541365c7fb831e5432b940/README.md)
 * [Instagram](ctypes/0xa3cc696621b9fef5fc94a61078ceecadd957f18634ccff05b9030f274e376459/README.md)
+* [Comment](ctypes/0x5fd43243e69170a86159ec68e8913a34a1e676e237adde0f86ed6e4a5b08649b/README.md)
+* [Like](ctypes/0x6f20af20bbae5b280fb4a4768963236730ad7e8213f36d6f3899871cb04c9ae6/README.md)
 
 ### Other
 
