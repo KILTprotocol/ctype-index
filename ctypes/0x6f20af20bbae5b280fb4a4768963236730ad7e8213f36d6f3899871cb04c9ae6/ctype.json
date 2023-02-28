@@ -1,0 +1,11 @@
+{
+    "$schema": "http://kilt-protocol.org/draft-01/ctype#",
+    "properties": {
+        "like": {
+            "type": "boolean"
+        }
+    },
+    "title": "Like",
+    "type": "object",
+    "$id": "kilt:ctype:0x6f20af20bbae5b280fb4a4768963236730ad7e8213f36d6f3899871cb04c9ae6"
+}
