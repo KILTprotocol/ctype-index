@@ -1,0 +1,11 @@
+{
+    "$schema": "http://kilt-protocol.org/draft-01/ctype#",
+    "properties": {
+        "artist": {
+            "type": "string"
+        }
+    },
+    "title": "PublicPressureMusic",
+    "type": "object",
+    "$id": "kilt:ctype:0xc34b48647db126ab15c0c418aa9bc880617dc1e43e8a5870a75218a6480fb67d"
+}

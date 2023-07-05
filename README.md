@@ -38,3 +38,5 @@ Is a CType missing? Add it to the chain and open a PR in this repository!
 * [Drivers License(wanghui)](ctypes/0x3112e1e3fb387e5eb6c109aa45afc7ed9df01f1c90a976a8b00585abf817ca82/README.md)
 * [AP_PHONE_NUMBER](ctypes/0xbf3b6c97c5bd861ac002dec55581a3b38c5d913612d4a8686361f526a3cf5f15/README.md)
 * [Authorization](ctypes/0xdf952230c87e7fbdc8503a394540c8e99029180611e7107c4eee33f67f57aa57/README.md)
+* [AwesomeNFT](ctypes/0x3228451c231f002227358f90c31436ea6e302d53e3ae45903c49ebc45d6b9b19/README.md)
+* [PublicPressureMusic](ctypes/0xc34b48647db126ab15c0c418aa9bc880617dc1e43e8a5870a75218a6480fb67d/README.md)
