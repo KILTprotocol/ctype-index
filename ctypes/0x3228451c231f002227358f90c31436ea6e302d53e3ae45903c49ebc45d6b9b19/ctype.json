@@ -1,0 +1,11 @@
+{
+    "$schema": "http://kilt-protocol.org/draft-01/ctype#",
+    "properties": {
+        "score": {
+            "type": "integer"
+        }
+    },
+    "title": "AwesomeNFT",
+    "type": "object",
+    "$id": "kilt:ctype:0x3228451c231f002227358f90c31436ea6e302d53e3ae45903c49ebc45d6b9b19"
+}
